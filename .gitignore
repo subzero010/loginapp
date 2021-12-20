@@ -1,4 +1,5 @@
-<<<<<<< Updated upstream
+
+
 # Logs
 logs
 *.log
@@ -101,8 +102,3 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
-
-
-
-**node_modules 
->>>>>>> Stashed changes
